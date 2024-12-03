@@ -1,1 +1,1 @@
-# BCHM4400Hackathon
+# BCHM4400Biohackathon
