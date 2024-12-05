@@ -41,6 +41,7 @@ Immune System
 
 Progerin is the main protein that causes most of the symptoms of HGPS and it affects different organs in different ways.
 
-Seed Genes: LMNA and SMPSTE24
+Seed Genes: LMNA and ZMPSTE24
 
-Hypothesis:
+Hypothesis: 
+The LMNA and ZMPSTE24 genes cause symptoms associated with Hutchinson-Gilford Progeria Syndrome through the interaction of the ZMPSTE24 protein with the protein product of a mutated LMNA gene. The LMNA mutation causes an abnormal lamin A protein called progerin that becomes active when it interacts with ZMPSTE24, allowing the mutated protein to create unstable nuclear membranes, leading to the HGPS phenotype.
